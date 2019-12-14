@@ -49,7 +49,7 @@ BPF的架构如下：
 
 网卡传入的网络数据流从Kernel高速Path流向Userspace低速Path。eBPF主要处理在内核TC模块。
 
-![eBPF](./eBPF.PNG)
+![eBPF](../eBPF.PNG)
 
 ###### 1.4  用途
 
