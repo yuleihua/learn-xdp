@@ -1,4 +1,4 @@
-# learning ebpf and xdp
+# Learning ebpf and xdp
 This article is mainly about eBPF and XDP learning.
 
 #### The articles has four steps：
@@ -19,5 +19,5 @@ Study XDP in depth
 
 Study AF_XDP in depth
 
-
-
+###### other resource
+Reference
